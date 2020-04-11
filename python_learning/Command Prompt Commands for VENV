@@ -1,0 +1,52 @@
+Command Prompt Commands for VENV 
+
+BASICS
+pip list: to list packages in global system
+
+python -m venv project_env: to create a new virtual environment
+
+dir: to list all files in a directory
+
+project_env\Scripts\activate.bat: to activate project_env, you'll then see environment name in  parentheses
+
+where python: gives path to current python command
+
+pip install requests: to install the library "requests"
+
+pip freeze: similar to pip list but it gives and output which can be read as input for installation, just copy and paste the output into a .txt file, name it "requirements.txt"
+
+deactivate: deactivates environment
+
+rmdir project_env /s: removes the directory, /s deletes subdirectories as well
+
+TO MAKE NEW PROJECT
+mkdir my_project
+
+python -m venv my_project\venv: this puts venv (virtual environment) inside the "my_project" folder
+
+my_project\venv\Scripts\activaet.bat: activates the environment
+
+pip install -r requirements.txt: install packages specified by a .txt file
+
+cd my_project: goes into my_project
+
+* remember, when creating a script, don't put it in the venv directory, save it in the root instead. just create a .py file (or any script) in the my_project folder itself
+* also don't commit your virtual environment to source control
+
+deactivate: deactivates the environment
+
+rmdir venv /s: deletes the environment called venv
+
+python -m venv venv --system-site-packages: to create an environment with SYSTEM packages
+
+venv\Scripts\activate.bat: activates the venv 
+
+pip list: will then see that the system packages are also available in the virtual environment
+
+pip install SQLAlchemy: installs SQLAlchemy in the environment, not system
+
+pip list: reveals that SQLAlchemy has been installed
+
+pip list --local: lists packages in virtual environment
+
+

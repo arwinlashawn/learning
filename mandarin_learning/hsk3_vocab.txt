@@ -1,0 +1,172 @@
+阿姨 1,2 - aunt
+叔叔 1,0 - uncle
+奶奶 3,0 - grandmother
+爷爷 2,0 - grandfather
+司机 1,1 - driver
+校长 4,3 - headmaster
+邻居 2,1 - neighbor
+鼻子 2,0 - nose
+耳朵 3,0 - ear
+嘴 3 - mouth
+个子	4,0 - height, stature
+衬衫 4,1 - shirt
+裙子 2,0 - skirt
+帽子 4,0 - hat, cap
+皮鞋 2,2 - leather shoes
+超市 1,4 - supermarket
+银行 2,2 - bank
+电梯 4,1 - elevator 
+街道 1,4 - street
+船 chuan2 - boat
+划船 hua2chuan2 - to paddle a boat
+过去 4,4 - the past (noun)
+后来 4,2 - later, afterward
+一会儿就回来 - will be back soon
+花都开了 - all the flowers bloom
+历史 4,3 - history
+体育 3,4 - P.E., sports
+草 3 - grass
+在草地上 - on the grass
+树 4 - tree
+叶子 4,0 - leaf
+升起 1,3 - rise (sun)
+月亮 4,0 - moon
+面包 4,1 - bread
+啤酒 2,3 - beer
+香蕉 1,1 - banana
+猴子 2,0 - monkey
+装 1 - to hold something (bottle) KIV
+差 4 - bad
+水平 3,2 - level, standard
+感兴趣 3,4,4 - interested in
+要求 1,2 - requirements
+爱护 4,4 - to cherish
+棵 1 - to count trees
+公斤 1,1 - kilogram
+笔记本 3,4,3 - laptop
+词典 2,3 - dictionary
+提供 2,1 - to provide
+黑板 1,3 - blackboard
+幅 2 - to count picture/drawing/painting
+伞 3 - umbrella
+照相机 4,4,1 - camera
+作为 4,2 - as, e.g camera (as) birthday gift (literally)
+马 3 - horse
+鸟 3 - bird 
+只 zhi1 - to count birds
+熊猫 xiong2mao1 - panda
+动物园 dong4wu4yuan2 - zoo
+季节 ji4jie2 - season
+会议 hui4yi4 - meeting, conference
+表演 biao3yan3 - to show, to demo? 
+去全世界 - to go the world's...
+电子邮件 4,3,2,4 - email
+动词 4,2 - verb
+分 1 - to distinguish, e.g. 分不清汉语和日语
+假期 4,1 - holiday
+还 huan2 - to return, e.g. 把这本书还给你
+座位 zuo4wei4 - seat
+借 jie4 - to borrow, to lend
+认为 ren4wei2 - to think, to believe
+秘密 mi4mi0 - secret
+解决 jie3jue2 - to solve
+经过 jing1guo4 - to pass
+撒谎 sa1huang3 - lie e.g. 我相信他没有撒谎。
+遇到 yu4dao4 - to come across e.g. 遇到了什么困难
+完成 wan2cheng2 - to complete e.g. 完成了这幅画
+爬山 pa2shan1 - to go hike/to climb a mountain
+终于 zhong1yu2 - finally e.g. 他终于学会了。。
+总 3 - always e.g. 不能总让别人帮忙
+刮风 gua1feng1 - to be windy e.g. 外面刮风了
+起飞 qi3fei1 - (for an airplane) to take off
+堵车 du3che1 - traffice jam e.g. 路上堵车了
+摔倒 shuai1dao3 - to fall down e.g. 他摔倒了
+丈夫 zhang4fu - husband
+矮 ai3 - short (height)
+瘦 shou4 - thin
+经过 jing1guo4 - to pass (time) e.g. 经过三个月的锻炼。。
+海水 hai3shui3 - seawater
+有需要的人 - people in need
+消息 xiao1xi - news e.g. 有一个坏消息要告诉你。
+甜 tian2 - sweet (flavor)
+玩耍 wan2shua3 - to play (as children do)
+明白 ming2bai - to be clear e.g. 我已经说了很明白了, 我不喜欢你
+件 jian4 - to count things in general? e.g.最近发生了一件很奇怪的事。
+热情 re4qing2 - warm, enthusiastic
+妻子 qi1zi - wife
+双 shuang1 - to count shoes (in pairs, basically)
+画家 hua4jia1 - painter
+对我来说 - to me, in my opinion
+主要 zhu3yao4 - main e.g. 主要是 means "is mainly"
+形容词 xing2rong2ci2 - adjective
+副词 fu4ci2 - adverb
+沙漠 sha1mo4 - desert
+迷路 mi3lu4 - to be lost
+可能性 ke3neng2xing4 - possibility
+极 ji2 - extremely e.g. 迷路的可能性极大。
+商场 shang1chang3 - mall 
+必须 bi4xu1 - must
+系 ji4 - to fasten the seat belt e.g. 系安全带
+多么 duo1me - very, to a great extent e.e. 多么可爱的孩子啊！
+几乎 ji1hu1 - almost e.g. 他们几乎不吵架, they almost never quarrel
+出差 chu1chai1 - on a business trip
+京剧 jing1ju4 - Beijing Opera
+一共 yi2gong4 - in total
+邀请 yao1qing3 - to invite
+聚会 ju4hui4 - party
+一直 yi4zhi2 - all the time, has always been
+总是 zong3shi4 - always e.g. 他怎么总是迟到？
+数词 shu4ci2 - numeral
+价格 jia4ge2 - price
+万 wan3 - ten thousand
+收入 shou1ru4 - income
+量词 liang4ci2 - measure words
+把 ba3 - measure word for things with a handle e.g. knife, chair
+层 ceng2 - measure word for floors, layer e.g. floor, dust
+有三层楼那么高了 = as tall as a three-story building
+段 duan4 - measure word for sections or periods e.g. time, path
+分 fen1 - unit for money e.g. 一分钱 0.01 yuan
+不值 bu4zhi2 - not worth e.g. 一分钱都不值
+角 jiao3 - a unit of money (written Chinese) 0.1 yuan
+打完折后 - after discount
+口 kou3 - measure word for well, people?
+围巾 wei2jin1 - scarf
+脏 zang1 - dirty
+赶紧 gan3jin3 - to quickly
+只 zhi1 - measure word for certain animals or one of a pair e.g.
+cat, bird, show
+代词 dai4ci2 - pronoun
+信心 xin4xin1 - confidence
+助词 zhu4ci2 - particle (in a language)
+小偷 xiao3tou1 - thief
+抓住 zhua1zhu4 - to catch
+作弊 zuo4bi4 - to cheat
+介词 jie4ci2 - prepositions
+根据 gen1ju4 - according to, based on e.g. 根据我的经验
+真实 zhen1shi2 - true
+改编 gai3bian1 - to rearrange
+为 wei4 - for e.g. 我真为你高兴！ e.g. 她正在为我做饭。
+小事 xiao3shi4 - trifle
+向 xiang4 - toward e.g. 那么我向你道歉。 (I will apologize to you)
+代替 dai4ti4 - on behalf e.g. 请你代替我向他们表示感谢。
+作家 zuo4jia4 - writer
+只有 zhi3you4 - only by e.g. 我只有通过这个考试才能去美国。
+掌握 zhang3wo4 - to master
+词语 ci2yu3 - vocabulary
+评论中 ping2lun4zhong1 - comment section
+订阅 ding4yu4 - to subscribe
+频道 pin2dao4 - channel
+
+
+
+
+
+
+
+
+
+
+
+
+
+

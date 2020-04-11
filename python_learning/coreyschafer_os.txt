@@ -1,0 +1,100 @@
+# learning the os module in python 
+
+import os 
+
+# to see all the methods in os
+print(dir(os))
+
+# to get current working directory
+print(os.getcwd())
+
+# to change current working directory
+os.chdir('/Users/Arwin Lashawn/Desktop/python_learning')
+
+print(os.getcwd())
+
+# to list the files in current dir
+print(os.listdir())
+
+# say we wanna create a folder in the current dir with a certain name
+# os.mkdir('new_file_mkdir')
+# makedirs alows for multiple dir levels to be created at the same time
+# makedirs is okay even for a single dir level!
+# os.mkdir('new_file_makedirs')
+print(os.listdir())
+
+# what about deleting folders?
+# os.rmdir('new_file_mkdir')
+# os.removedirs('new_file_makedirs') # deletes the directory recursively, a bit risky
+# making dir with makedirs is safer
+# the two files are now deleted!
+
+# to rename file
+# create the file again
+# os.makedirs('new_file_makedirs')
+# os.rename('new_file_makedirs', 'renamed_file_makedirs') # renames the file to renamed_files_makedirs 
+# note that since you didn't specify the file extension, you were creating and deleting FOLDERS
+
+# now let's get some info about our files
+print(os.stat('argparse_practice.py')) # get info like size, last modification time
+# you can specify what info you want exactly
+print(os.stat('argparse_practice.py').st_mtime) # not human readable though! so let's
+# import datetime module
+mod_time = os.stat('argparse_practice.py').st_mtime
+from datetime import datetime
+print(datetime.fromtimestamp(mod_time)) # now the time is human readable!
+
+# say you wanna see the entire directory tree 
+# by default, traverses from top down
+# yield 3-value tuple
+# say let's specify the path for Desktop
+for dirpath, dirnames, filenames in os.walk("/Users/Arwin Lashawn/Desktop"):
+	print('Current Path:', dirpath)
+	print('Directories:', dirnames)
+	print('Files:', filenames)
+	print()
+
+# say you wanna access your home directory location
+# to get environment variables
+# say we get the envi vars for PATH
+print(os.environ.get('OneDrive'))
+
+file_path = os.path.join(os.environ.get('OneDrive'), 'test.txt')
+print(file_path) # you gonna get the right file path!
+
+# use the os.path module
+# os.path.join joins two paths together, you don't have to worry
+# about getting the slashes right
+
+# useful if you're reading and writing files to many different locations
+# if you wanna create that file:
+# with open(file_path, 'w') as f:
+	#f.write... (continued in another video)
+
+# will grab the file names of any path that we are working on
+print(os.path.basename('/tmp/test.txt')) # gets basename i.e. test.txt
+print(os.path.dirname('/tmp/test.txt')) # gets /tmp
+print(os.path.split('/tmp/test.txt')) # gets tuple with '/tmp' and 'test.txt'
+
+# if you wanna check if the path above actually exists
+print(os.path.exists('/tmp/test.txt')) # prints False, cuz that was a path you made up
+
+# other useful functions for os.path
+# .isdir: to check if it is a directory
+# .isfil: to check if it is a file
+
+# a commonly used function by Corey
+# os.path.splitext
+# result: ('/tmp/test', '.txt')
+print(os.path.splitext('/tmp/test.txt')) # useful if you wanna get rid of the extension
+
+# to see everything available within os.path module
+print(dir(os.path))
+
+# to do: brush up on OOP
+
+
+
+
+
+
